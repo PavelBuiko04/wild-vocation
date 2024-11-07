@@ -2,7 +2,7 @@
 
 **WildVocation**  - The visual part of the website that will help you explore the world
 
-## Website section
+## Website section 
 - **Main** - Tells us about the company and its products
 
 ## The technologies used
